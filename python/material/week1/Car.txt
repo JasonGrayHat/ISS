@@ -1,0 +1,6 @@
+#Car
+body = ex.coupe,truck
+numberOfWheels
+engineType
+HP
+features

@@ -1,0 +1,13 @@
+#Vehicle
+year
+numberOfPass
+model
+make
+color
+milage
+price
+cost
+
+getMarkUp()
+getPriceWithDiscount(per)
+getProjectedPrice()
